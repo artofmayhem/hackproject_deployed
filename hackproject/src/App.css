@@ -1,0 +1,31 @@
+h1, h3, h5 {
+  font-family: 'Architects Daughter', cursive;
+}
+.header {
+  background-image: url(./assets/siteHeader.jpg);
+  background-position: center 10%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 2px solid white
+}
+
+.cardHolder {
+  background-image: url(./assets/cardContainer.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.cards {
+  background: #444;
+  color: lightskyblue;
+  width: 450px;
+  margin: 8vh 5vw;
+  border: 2px solid violet;
+  text-align: center;
+  box-shadow: 0 0 1.5rem pink;
+  opacity: 0.9;
+  padding: 3vh 0vw
+}
+
